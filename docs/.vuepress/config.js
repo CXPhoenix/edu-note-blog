@@ -9,8 +9,8 @@ const folders = rootfiles.filter(
 );
 
 module.exports = {
-  title: "",
-  description: "Vuepress 模板",
+  title: "資教文本",
+  description: "關於資訊、教育、生活等等作筆記",
   themeConfig: {
     logo: "/images/logoImage.png",
     navbar: [

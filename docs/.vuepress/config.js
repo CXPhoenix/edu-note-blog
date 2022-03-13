@@ -11,6 +11,7 @@ const folders = rootfiles.filter(
 module.exports = {
   title: "資教文本",
   description: "關於資訊、教育、生活等等作筆記",
+  head: [[link, { rel: "icon", href: "/images/logoImage.png" }]],
   themeConfig: {
     logo: "/images/logoImage.png",
     navbar: [

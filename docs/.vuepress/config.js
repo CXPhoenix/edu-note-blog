@@ -1,5 +1,6 @@
 const fs = require("fs");
 const path = require("path");
+const { title, description, logo } = require("./userConfig.js");
 
 const mdFile = ".md";
 const rootFolder = path.dirname(__dirname);
@@ -9,11 +10,11 @@ const folders = rootfiles.filter(
 );
 
 module.exports = {
-  title: "資教文本",
-  description: "關於資訊、教育、生活等等作筆記",
+  title: title,
+  description: description,
   head: [["link", { rel: "icon", href: "/images/logoImage.png" }]],
   themeConfig: {
-    logo: "/images/logoImage.png",
+    logo: logo,
     navbar: [
       {
         text: "教學筆記",

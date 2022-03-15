@@ -2,7 +2,9 @@
 
 ::: tip License
 檔案下載： [Vuepress Template](https://drive.google.com/file/d/1ewR0JsHsdt9Jlwn_LdsbclOwmUbEhXYk/view?usp=sharing)
-Vuepress Template License: CC-BY-SA ![CC-BY-SA](/images/by-sa.png)
+Vuepress Template License: CC-BY-SA
+
+![CC-BY-SA](/images/by-sa.png)
 :::
 
 今天來跟大家分享一下 Vuepress 這套好用的 blog 快速建置套件。
@@ -17,4 +19,4 @@ Vuepress Template License: CC-BY-SA ![CC-BY-SA](/images/by-sa.png)
 
 ---
 
-## Template
+## Template 使用

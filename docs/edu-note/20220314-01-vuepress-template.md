@@ -1,6 +1,6 @@
 # Vuepress Template 使用教學(1)
 
-::: TIP License
+::: tip License
 檔案下載： [Vuepress Template](https://drive.google.com/file/d/1ewR0JsHsdt9Jlwn_LdsbclOwmUbEhXYk/view?usp=sharing)
 Vuepress Template License: CC-BY-SA ![CC-BY-SA](/images/by-sa.png)
 :::
@@ -18,5 +18,3 @@ Vuepress Template License: CC-BY-SA ![CC-BY-SA](/images/by-sa.png)
 ---
 
 ## Template
-
-![logo](/images/20220314-image/logoImage.png)

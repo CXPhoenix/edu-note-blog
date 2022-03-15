@@ -42,7 +42,10 @@ function getSideBar() {
     const folderFiles = fs.readdirSync(path.join(rootFolder, folder));
     const children = [];
     folderFiles
-      .filter((item) => item.toLowerCase() != "readme.md")
+      .filter(
+        (item) =>
+          item.toLowerCase() != "readme.md" && path.extname(item) === mdFile
+      )
       .forEach((file) => {
         children.push(`/${folder}/${file}`);
       });

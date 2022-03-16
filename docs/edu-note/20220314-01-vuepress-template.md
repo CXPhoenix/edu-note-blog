@@ -20,3 +20,6 @@ Vuepress Template License: CC-BY-SA
 ---
 
 ## Template 使用
+
+1. 首先先下載 template 到電腦中。這邊推薦下載到「下載」資料夾。
+2. 將下載下來的「vuepress-template.zip」資料夾

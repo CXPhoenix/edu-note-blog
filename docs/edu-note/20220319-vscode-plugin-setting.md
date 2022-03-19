@@ -36,16 +36,16 @@
 
 還真讓我給找到了！
 
-### (Paste Image)[https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image]
+### [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
 
-```
+::: tip
 名稱: Paste Image
 識別碼: mushan.vscode-paste-image
 描述: paste image from clipboard directly
 版本: 1.0.4
 發行者: mushan
 VS Marketplace 連結: [https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
-```
+:::
 
 研讀了一下裡面的介紹，真的是開我的眼界！
 

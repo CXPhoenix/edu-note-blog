@@ -38,12 +38,17 @@
 
 ### [Paste Image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
 
-::: tip
+::: tip Paste Image Info
 名稱: Paste Image
+
 識別碼: mushan.vscode-paste-image
+
 描述: paste image from clipboard directly
+
 版本: 1.0.4
+
 發行者: mushan
+
 VS Marketplace 連結: [https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
 :::
 

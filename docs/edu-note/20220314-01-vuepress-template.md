@@ -22,4 +22,35 @@ Vuepress Template License: CC-BY-SA
 ## Template 使用
 
 1. 首先先下載 template 到電腦中。這邊推薦下載到「下載」資料夾。
-2. 將下載下來的「vuepress-template.zip」資料夾
+2. 將下載下來的 `vuepress-template.zip` 資料夾
+3. 將 `vuepress-template.zip` 解壓縮，並放到 `桌面` 上。
+
+::: tip 特別注意
+這邊是為了後續方便講解，才統一將壓縮後的檔案放到 `桌面` 上。
+
+你也可以選擇你喜歡的資料夾存放喔！
+:::
+
+4. 從 `桌面` 進入 vuepress-template 資料夾後，你可以看到資料夾內的結構長這樣：
+
+```
+vuepress-template
+|-- README.md
+|-- package.json
+|-- package-lock.json
+|-- dev.bat
+|-- .gitignore
+`-- docs
+    |-- README.md
+    |-- .vuepress
+    |   |-- config.js
+    |   |-- userConfig.js
+    |   `-- public
+    |       `-- images
+    |-- blog
+    |   |-- README.md
+    |   `-- 2022-02-22-demoUpload.md
+    `-- note
+        `-- REAME.md
+```
+

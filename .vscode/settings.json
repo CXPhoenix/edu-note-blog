@@ -1,5 +1,5 @@
 {
-  "editor.defaultFormatter": "vscode.markdown-language-features",
+  "editor.defaultFormatter": "yzhang.markdown-all-in-one",
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "pasteImage.path": "${projectRoot}/docs/.vuepress/public/images/",

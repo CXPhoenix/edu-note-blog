@@ -9,7 +9,7 @@
 
 總之，我就設計了 Vuepress Template 來讓它們下載，以及直接使用。
 
-[可以點我看 Vuepress Template 的使用(但是我還沒完成XD)](/edu-note/20220314-01-vuepress-template.md)
+[可以點我看 Vuepress Template 的使用(1)](/edu-note/20220314-01-vuepress-template.md)
 
 但是貼圖片這件事情總是困擾著我...
 

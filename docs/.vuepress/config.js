@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { title, description, logo } = require("./userConfig.js");
+const { title, description, logo, exclusive_note } = require("./userConfig.js");
 
 const mdFile = ".md";
 const rootFolder = path.dirname(__dirname);
@@ -45,7 +45,9 @@ function getSideBar() {
     folderFiles
       .filter(
         (item) =>
-          item.toLowerCase() != "readme.md" && path.extname(item) === mdFile
+          item.toLowerCase() != "readme.md" &&
+          path.extname(item) === mdFile &&
+          exclusive_note.indexOf(item.toLowerCase) === -1
       )
       .forEach((file) => {
         children.push(`/${folder}/${file}`);

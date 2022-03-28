@@ -1,3 +1,3 @@
 # testing note
 
-testing
+testing git-cz

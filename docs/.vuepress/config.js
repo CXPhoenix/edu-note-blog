@@ -47,7 +47,7 @@ function getSideBar() {
         (item) =>
           item.toLowerCase() != "readme.md" &&
           path.extname(item) === mdFile &&
-          exclusive_note.indexOf(item) === -1
+          exclusive_note[folder].indexOf(item) === -1
       )
       .forEach((file) => {
         children.push(`/${folder}/${file}`);

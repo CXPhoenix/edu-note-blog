@@ -1,4 +1,4 @@
-# 20220330 note
+# 20220330 Chap 3 note
 
 ## ＊ Constraint Handling
 
@@ -159,4 +159,8 @@ Use of tables is insufficient -> Need visualization tools, e.g.
 * Deviation bars or boxplot\
     ![](/images/metaheuristic-class-20220330-note/2022-03-30-20-10-52.png)
 
-    
+
+## **Chap 3 end**
+
+
+

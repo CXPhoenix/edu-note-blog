@@ -14,7 +14,7 @@
 
 ### May parameters have to be tunied for any metaheuristics.
 
-![](/images/metaheuristic-class-20220330-note/2022-03-30-19-08-44.png)
+![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-19-08-44.png)
 
 ## ＊ Off-line Parameter Initialization
 
@@ -45,7 +45,7 @@
 
 > When metaheuristic can't decide the factors and levels, we can use the meta-metaheuristic algorithm...
 
-![](/images/metaheuristic-class-20220330-note/2022-03-30-19-16-59.png)
+![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-19-16-59.png)
 
 
 ## ＊ Online Parameter Initialization
@@ -77,7 +77,7 @@
 * Reporting in a comprehensive way
   * Ensure the reproducibility
   
-![](/images/metaheuristic-class-20220330-note/2022-03-30-19-30-30.png)
+![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-19-30-30.png)
 
 
 ### Experimental design
@@ -117,7 +117,7 @@ The set of instances must be diverse in terms of the size of the instances, thei
 
 Select the performance measures and indicators. Common performance measures include.
 
-![](/images/metaheuristic-class-20220330-note/2022-03-30-19-57-46.png)
+![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-19-57-46.png)
 
 * Solution quality\
     Difference to ...
@@ -153,11 +153,11 @@ The interpretation of the results must be explicit and driven using considered m
 Use of tables is insufficient -> Need visualization tools, e.g.
 
 * Interaction plots\
-    ![](/images/metaheuristic-class-20220330-note/2022-03-30-20-10-05.png)
+    ![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-20-10-05.png)
 * Trade-off scatter plots / anytime behavior
-    ![](/images/metaheuristic-class-20220330-note/2022-03-30-20-10-26.png)
+    ![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-20-10-26.png)
 * Deviation bars or boxplot\
-    ![](/images/metaheuristic-class-20220330-note/2022-03-30-20-10-52.png)
+    ![](/images/metaheuristic-class-20220330-chap3-note/2022-03-30-20-10-52.png)
 
 
 ## **Chap 3 end**

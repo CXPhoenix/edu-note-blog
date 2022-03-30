@@ -20,6 +20,15 @@ module.exports = {
         text: "教學筆記",
         link: "/edu-note/",
       },
+      {
+        text: "碩班上課筆記",
+        children: [
+          {
+            text: "超啟發式演算法",
+            link: "/metaheuristic-class/",
+          },
+        ],
+      },
     ],
     sidebar: { ...getSideBar() },
   },
@@ -47,7 +56,8 @@ function getSideBar() {
         (item) =>
           item.toLowerCase() != "readme.md" &&
           path.extname(item) === mdFile &&
-          exclusive_note[folder].indexOf(item) === -1
+          (!exclusive_note[folder] ||
+            exclusive_note[folder].indexOf(item) === -1)
       )
       .forEach((file) => {
         children.push(`/${folder}/${file}`);

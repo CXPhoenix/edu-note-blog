@@ -107,8 +107,8 @@
 
 ![](/images/metaheuristic-class-20220413-chap4-note/2022-04-13-19-46-11.png)
 
-> Amplitude: 震幅
-> Relative amplitude: 相對震幅 U --> Uniform, O --> local optimal solution
+> Amplitude: 震幅\
+> Relative amplitude: 相對震幅 U --> Uniform, O --> local optimal solution\
 > Average gap: 區域最佳到全域最佳的平均
 
 ## Correlation measures
